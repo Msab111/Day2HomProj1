@@ -6,7 +6,7 @@ public class Day2Hwp1Dem {
 	
 public static void main (String args []) {
 		
-		System.out.println ("Day 2 hwone stash ");
+		System.out.println (" saba Day 2 hwone stash ");
 		
 	}
 
@@ -18,6 +18,13 @@ public void run() {
 
 }
 	
+	public void study () {
+		
+		System.out.println ("studying...");
+		
+		System.out.println("studhy hours");
+		
+	}
 	
 	
 	
